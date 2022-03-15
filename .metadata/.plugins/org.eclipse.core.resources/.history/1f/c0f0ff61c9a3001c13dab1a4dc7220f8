@@ -1,0 +1,8 @@
+package br.com.alura.gerenciador.acao;
+
+public class RemoveEmpresa {
+
+	public void executa() {
+		
+	}
+}

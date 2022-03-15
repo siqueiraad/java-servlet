@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\andre.siqueira\eclipse-workspace\ws-java-servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1532149616.index
+\gerenciador\src
+C:\Users\andre.siqueira\eclipse-workspace\ws-java-servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4286863474.index
+\gerenciador\src
