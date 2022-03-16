@@ -20,8 +20,6 @@ public class AlteraEmpresa implements Acao {
 		String paramId = request.getParameter("id");
 		Integer id = Integer.valueOf(paramId);
 		
-		System.out.println("Alterando empresa na classe - id: " + id);
-		
 		Date dataAbertura = null;
 		try {
 			SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
